@@ -131,7 +131,7 @@ Angular component library for embedding Twitter widgets seamlessly.
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. 
 
-[![Email](https://img.shields.io/badge/Email-makavanaromik1214@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:makavanaromik1214@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dev.romikmakavana@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.romikmakavana@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Website-romikmakavana.me-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://romikmakavana.me)
 
 ### 📅 Schedule a Meeting
